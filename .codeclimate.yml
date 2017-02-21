@@ -19,3 +19,5 @@ exclude_paths:
 - "boilerplate/"
 - "demo/"
 - "js/"
+- "test_app/"
+- "docs/"

@@ -1,5 +1,6 @@
 {
   "development": {
+    "enabled": true,
     "networkType": "custom",
     "genesisBlock": "config/development/genesis.json",
     "datadir": ".embark/development/datadir",
@@ -33,6 +34,6 @@
     "rpcPort": 8545,
     "datadir": "yourdatadir",
     "networkId": "123",
-    "nodes": []
+    "bootnodes": ""
   }
 }
