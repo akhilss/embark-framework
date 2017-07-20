@@ -1,10 +1,6 @@
-var assert = require('assert');
-var Embark = require('embark');
-var EmbarkSpec = Embark.initTests();
-var web3 = EmbarkSpec.web3;
-
-//describe("SimpleStorage", function() {
+// describe("SimpleStorage", function() {
 //  before(function(done) {
+//    this.timeout(0);
 //    var contractsConfig = {
 //      "SimpleStorage": {
 //        args: [100, '0x123']
@@ -29,4 +25,4 @@ var web3 = EmbarkSpec.web3;
 //    });
 //  });
 //
-//});
+// });

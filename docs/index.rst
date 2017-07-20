@@ -17,6 +17,8 @@ This is a work in progress, feel free to contribute!
    creating-a-new-dapp.rst
    libraries-and-languages-available.rst
    using-contracts.rst
+   configuring-storage.rst
+   configuring-communication.rst
    embarkjs.rst
    embarkjs-storage.rst
    embarkjs-communication.rst
@@ -26,6 +28,7 @@ This is a work in progress, feel free to contribute!
    deploying-to-ipfs.rst
    deploying-to-swarm.rst
    plugins.rst
+   using-embark-with-grunt.rst
    donations.rst
 
 Indices and tables

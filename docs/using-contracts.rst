@@ -1,4 +1,4 @@
-Using Contracts
+Configuring & Using Contracts
 ===============
 
 Embark will automatically take care of deployment for you and set all
@@ -64,7 +64,7 @@ with the correct address for the contract.
           "SimpleStorage": {
             "args": [
               100,
-              $MyStorage
+              "$MyStorage"
             ]
           },
           "MyStorage": {
@@ -74,7 +74,7 @@ with the correct address for the contract.
           },
           "MyMainContract": {
             "args": [
-              $SimpleStorage
+              "$SimpleStorage"
             ]
           }
         }
